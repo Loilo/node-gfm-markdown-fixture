@@ -1,0 +1,21 @@
+{
+  "name": "gfm-markdown-fixture",
+  "version": "1.0.0",
+  "description": "A fixture for reading npm's markdown rendering",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loilo/node-gfm-markdown-fixture.git"
+  },
+  "keywords": [
+    "markdown",
+    "github",
+    "gfm"
+  ],
+  "author": "Florian Reuschel <florian@loilo.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loilo/node-gfm-markdown-fixture/issues"
+  },
+  "homepage": "https://github.com/Loilo/node-gfm-markdown-fixture#readme"
+}
